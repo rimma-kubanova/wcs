@@ -11,7 +11,7 @@ export default function DigitalNarrative(){
     <div className="w-full pt-48 h-[100vh]">
        <div className="absolute top-0"> 
        <h2 className="text-black text-6xl font-bold text-center pt-10 absolute">IMPERFECT</h2>
-      <Image src={portrait} alt="f" className="grayscale w-[100vw]"/>
+      <Image src={portrait} alt="f" className="grayscale"/>
         <div className="bg-white flex-col justify-center items-center py-24 text-center">
           <h6 className="text-xl">WCS 240: Digital Narrative</h6>
           <div className="px-48 mx-48 text-start">

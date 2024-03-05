@@ -13,10 +13,10 @@ export default function Home() {
         alt="sky yeahh...sky"
         className='w-[100vw]'/>
       </div>
-      <Image src={back}
+      {/* <Image src={back}
         alt="sky yeahh...sky"
         
-        className='relative w-[100vw]'/>
+        className='relative w-[100vw]'/> */}
 
         
 
